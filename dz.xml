@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <Films>
+        <category>Драма</category>
+        <name>Игры разума</name>
+        <author>Рон Ховард</author>
+        <date>2001</date>
+    </Films>
+    <Films>
+        <category>Фантастика</category>
+        <name>Мстители:Война бесконечности</name>
+        <author>Энтони и Джо Руссо</author>
+        <date>2018</date>
+    </Films>
+    <Films>
+        <category>Мелодрама</category>
+        <name>Закомьтесь,Джо Блэк</name>
+        <author>Мартин Брест</author>
+        <date>1998</date>
+    </Films>
+    <Films>
+        <category>Комедия</category>
+        <name>Не может быть</name>
+        <author>Леонид Гайдай</author>
+        <date>1975</date>
+    </Films>
+    <Films>
+        <category>Триллер</category>
+        <name>Остров проклятых</name>
+        <author>Мартин Скорсезе</author>
+        <date>2009</date>
+    </Films>
+</catalog>
